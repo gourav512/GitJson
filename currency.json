@@ -204,46 +204,46 @@
 
   "currency": [
     {
-      "title": "Africa",
-      "image": "https://1.bp.blogspot.com/-j5Bm4QtoxBk/X2T-N0SjyEI/AAAAAAAAANw/hKWTONEMCK87p3iy5SOtZkdkOaE3dPTwQCLcBGAsYHQ/s198/africa.png",
-      "screen": "AfricaScreen()",
-      "url": "https://gourav512.github.io/GitJson/africa_api.json"
+      "title1": "Africa",
+      "image1": "https://1.bp.blogspot.com/-j5Bm4QtoxBk/X2T-N0SjyEI/AAAAAAAAANw/hKWTONEMCK87p3iy5SOtZkdkOaE3dPTwQCLcBGAsYHQ/s198/africa.png",
+      "screen1": "AfricaScreen()",
+      "url1": "https://gourav512.github.io/GitJson/africa_api.json"
       
     },
     {
-      "title": "Asia",
-      "image": "https://1.bp.blogspot.com/-lQ9D3-tvO5Q/X2T-OATLWyI/AAAAAAAAAN0/G8gUOW8dHBE4QS5J5k1UlOzvNoqSVLkVQCLcBGAsYHQ/s199/asia.png",
-      "screen": "AsiaScreen()",
-      "url": "https://gourav512.github.io/GitJson/asia_api.json"
-      
-    },
-
-    {
-      "title": "Australia",
-      "image": "https://1.bp.blogspot.com/-8YOq2NZmB8I/X2T-PJvqzQI/AAAAAAAAAN8/TEvpXFPJbwsIBDAEHS6wseIbP9dkMJasgCLcBGAsYHQ/s198/australia.png",
-      "screen": "AustraliaScreen()",
-      "url": "https://gourav512.github.io/GitJson/australia_api.json"
-    },
-    {
-      "title": "Europe",
-      "image": "https://1.bp.blogspot.com/-updWp-TOjOg/X2T-PRIu6bI/AAAAAAAAAOA/MxLfOMEESnk-IBKLG0_B0eV2kuDWwUargCLcBGAsYHQ/s198/europe.png",
-      "screen": "EuropeScreen()",
-      "url": "https://gourav512.github.io/GitJson/europe_api.json"
+      "title2": "Asia",
+      "image2": "https://1.bp.blogspot.com/-lQ9D3-tvO5Q/X2T-OATLWyI/AAAAAAAAAN0/G8gUOW8dHBE4QS5J5k1UlOzvNoqSVLkVQCLcBGAsYHQ/s199/asia.png",
+      "screen2": "AsiaScreen()",
+      "url2": "https://gourav512.github.io/GitJson/asia_api.json"
       
     },
 
     {
-      "title": "North America",
-      "image": "https://1.bp.blogspot.com/-4lP4xHCuRO0/X2T-PkvU-DI/AAAAAAAAAOE/fsyN1jCMMs4iPWYG4dT_HknZ8ebldcM6gCLcBGAsYHQ/s198/north.png",
-      "screen": "NorthScreen()",
-      "url": "https://gourav512.github.io/GitJson/north_api.json"
+      "title3": "Australia",
+      "image3": "https://1.bp.blogspot.com/-8YOq2NZmB8I/X2T-PJvqzQI/AAAAAAAAAN8/TEvpXFPJbwsIBDAEHS6wseIbP9dkMJasgCLcBGAsYHQ/s198/australia.png",
+      "screen3": "AustraliaScreen()",
+      "url3": "https://gourav512.github.io/GitJson/australia_api.json"
+    },
+    {
+      "title4": "Europe",
+      "image4": "https://1.bp.blogspot.com/-updWp-TOjOg/X2T-PRIu6bI/AAAAAAAAAOA/MxLfOMEESnk-IBKLG0_B0eV2kuDWwUargCLcBGAsYHQ/s198/europe.png",
+      "screen4": "EuropeScreen()",
+      "url4": "https://gourav512.github.io/GitJson/europe_api.json"
+      
+    },
+
+    {
+      "title5": "North America",
+      "image5": "https://1.bp.blogspot.com/-4lP4xHCuRO0/X2T-PkvU-DI/AAAAAAAAAOE/fsyN1jCMMs4iPWYG4dT_HknZ8ebldcM6gCLcBGAsYHQ/s198/north.png",
+      "screen5": "NorthScreen()",
+      "url5": "https://gourav512.github.io/GitJson/north_api.json"
       
     },
     {
-      "title": "South America",
-      "image": "https://1.bp.blogspot.com/-5QoXSqgA4T8/X2T-P9d_YLI/AAAAAAAAAOI/_s3CE--L2SwO_YONFSzDoYm42msG-qp5wCLcBGAsYHQ/s198/south.png",
-      "screen": "SouthScreen()",
-      "url": "https://gourav512.github.io/GitJson/south_api.json"
+      "title6": "South America",
+      "image6": "https://1.bp.blogspot.com/-5QoXSqgA4T8/X2T-P9d_YLI/AAAAAAAAAOI/_s3CE--L2SwO_YONFSzDoYm42msG-qp5wCLcBGAsYHQ/s198/south.png",
+      "screen6": "SouthScreen()",
+      "url6": "https://gourav512.github.io/GitJson/south_api.json"
       
     }
   ]
