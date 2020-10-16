@@ -1,0 +1,29 @@
+{
+  "curry": [
+    {
+      "co": "",
+      "title": "Europe",
+      "imageurl": "https://1.bp.blogspot.com/-updWp-TOjOg/X2T-PRIu6bI/AAAAAAAAAOA/MxLfOMEESnk-IBKLG0_B0eV2kuDWwUargCLcBGAsYHQ/s198/europe.png"
+    }
+  ],
+  "curry_data": [
+    {
+      "name": "Algeria",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A"
+    },
+    {
+      "name": "Angola",
+      "nickname": "Angolan kwanza",
+      "coins": "1, 2, 5, 10, 20, 50, 100 kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": ""
+    }
+  ]
+}

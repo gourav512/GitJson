@@ -1,0 +1,29 @@
+{
+  "curry": [
+    {
+      "co": "",
+      "title": "North America",
+      "imageurl": "https://1.bp.blogspot.com/-4lP4xHCuRO0/X2T-PkvU-DI/AAAAAAAAAOE/fsyN1jCMMs4iPWYG4dT_HknZ8ebldcM6gCLcBGAsYHQ/s198/north.png"
+    }
+  ],
+  "curry_data": [
+    {
+      "name": "Algeria",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A"
+    },
+    {
+      "name": "Angola",
+      "nickname": "Angolan kwanza",
+      "coins": "1, 2, 5, 10, 20, 50, 100 kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": ""
+    }
+  ]
+}

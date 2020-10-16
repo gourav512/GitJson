@@ -1,0 +1,29 @@
+{
+  "curry": [
+    {
+      "co": "",
+      "title": "South America",
+      "imageurl": "https://1.bp.blogspot.com/-5QoXSqgA4T8/X2T-P9d_YLI/AAAAAAAAAOI/_s3CE--L2SwO_YONFSzDoYm42msG-qp5wCLcBGAsYHQ/s198/south.png"
+    }
+  ],
+  "curry_data": [
+    {
+      "name": "Algeria",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A"
+    },
+    {
+      "name": "Angola",
+      "nickname": "Angolan kwanza",
+      "coins": "1, 2, 5, 10, 20, 50, 100 kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": ""
+    }
+  ]
+}
