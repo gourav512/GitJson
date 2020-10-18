@@ -1,12 +1,5 @@
 {
-  "curry": [
-    {
-      "co": "",
-      "title": "Africa",
-      "imageurl": "https://1.bp.blogspot.com/-j5Bm4QtoxBk/X2T-N0SjyEI/AAAAAAAAANw/hKWTONEMCK87p3iy5SOtZkdkOaE3dPTwQCLcBGAsYHQ/s198/africa.png"
-    }
-  ],
-  "curry_data": [
+  "africa": [
     {
       "name": "Algeria",
       "nickname": "Algerian dinar",
@@ -29,6 +22,169 @@
     },
     {
       "name": "Algeria",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    }
+  ],
+  "australia": [
+    {
+      "name": "Australia1",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "Australia2",
+      "nickname": "Angolan kwanza",
+      "coins": "1, 2, 5, 10, 20, 50, 100 kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": "",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "Australia3",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    }
+  ],
+  "asia": [
+    {
+      "name": "Asia1",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "Asia2",
+      "nickname": "Angolan kwanza",
+      "coins": "1, 2, 5, 10, 20, 50, 100 kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": "",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "Asia3",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    }
+  ],
+
+  "europe": [
+    {
+      "name": "Europe1",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "Europe2",
+      "nickname": "Angolan kwanza",
+      "coins": "1, 2, 5, 10, 20, 50, 100 kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": "",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "Europe3",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    }
+  ],
+
+  "northame": [
+    {
+      "name": "North1",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "North2",
+      "nickname": "Angolan kwanza",
+      "coins": "1, 2, 5, 10, 20, 50, 100 kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": "",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "North3",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    }
+  ],
+
+  "southame": [
+    {
+      "name": "South54",
+      "nickname": "Algerian dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "South2",
+      "nickname": "Angolan kwanza",
+      "coins": "1, 2, 5, 10, 20, 50, 100 kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": "",
+      "co": "0xffF1CE2F"
+    },
+    {
+      "name": "South3",
       "nickname": "Algerian dinar",
       "coins": "5, 10, 20, 50, 100, 200 dinars",
       "banknotes": "200, 500, 1000 dinars",
