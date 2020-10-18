@@ -9,7 +9,7 @@
   "africa": [
     {
       "name": "Algeria",
-      "nickname": "Algerian dinar",
+      "nickname": "Algerian_dinar",
       "coins": "5, 10, 20, 50, 100, 200 dinars",
       "banknotes": "200, 500, 1000 dinars",
       "symbol": "DA (Latin)",
