@@ -14,7 +14,7 @@
       "banknotes": "200, 500, 1000 dinars",
       "symbol": "DA (Latin)",
       "code": "DZD",
-      "leading": "A",
+      "leading": "A ",
       "co": "0xffF1CE2F"
     },
     {
@@ -34,7 +34,7 @@
       "banknotes": "200, 500, 1000 dinars",
       "symbol": "DA (Latin)",
       "code": "DZD",
-      "leading": "A",
+      "leading": "A ",
       "co": "0xffF1CE2F"
     }
   ],
