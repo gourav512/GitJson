@@ -72,6 +72,137 @@
     }
   ],
 
+  "australia": [
+    {
+      "name": "australia1",
+      "nickname" : "doller1",
+      "coins": "5",
+      "banknotes": "100, 200 dinars",
+      "symbol": "Gookh",
+      "code": "DAA",
+      "leading": "E ",
+      "co": "0xffB30C2D"
+    },
+    {
+      "name": "Bngo",
+      "nickname": "Kwanza",
+      "coins": "1 20 50 100 Wanzas",
+      "banknotes": "200, 500, 1,000, 2,000, 5,000 Zas",
+      "symbol": "ZS",
+      "code": "BOB",
+      "leading": "F",
+      "co": "0xffB30C2D"
+    },
+    {
+      "name": "Goa",
+      "nickname": "GOGO",
+      "coins": "100, 200 rupee",
+      "banknotes": "200, 500, dinars",
+      "symbol": "ZZZ (ZOOO)",
+      "code": "ZZZ",
+      "leading": "H ",
+      "co": "0xffB30C2D"
+    }
+  ],
+
+  "europe": [
+    {
+      "name": "europe1",
+      "nickname" : "eur_nick1",
+      "coins": "eur_coin1",
+      "banknotes": "eur_note1",
+      "symbol": "eur_symbol1",
+      "code": "eur_code1",
+      "leading": "L ",
+      "co": "0xff3F48CC"
+    },
+    {
+      "name": "europe2",
+      "nickname": "eur_nick2",
+      "coins": "eur_coin2",
+      "banknotes": "eur_note12",
+      "symbol": "eur_symbol2",
+      "code": "BDF",
+      "leading": "M",
+      "co": "0xff3F48CC"
+    },
+    {
+      "name": "europe3",
+      "nickname": "eur_nick3",
+      "coins": "eur_coin13",
+      "banknotes": "eur_note3",
+      "symbol": "eur_symbol3",
+      "code": "ZH",
+      "leading": "Q ",
+      "co": "0xff3F48CC"
+    }
+  ],
+
+  "northAmerica": [
+    {
+      "name": "North1",
+      "nickname" : "north_nick1",
+      "coins": "north_coin1",
+      "banknotes": "noth_note1",
+      "symbol": "noth_symbol1",
+      "code": "north_code1",
+      "leading": "T ",
+      "co": "0xfff67ca3"
+    },
+    {
+      "name": "North2",
+      "nickname": "Norht_nick2",
+      "coins": "Norht_coin2",
+      "banknotes": "Norht_note12",
+      "symbol": "North_symbol2",
+      "code": "PPP",
+      "leading": "K",
+      "co": "0xfff67ca3"
+    },
+    {
+      "name": "North3",
+      "nickname": "Nth_nick3",
+      "coins": "north_coin13",
+      "banknotes": "north_note3",
+      "symbol": "north_symbol3",
+      "code": "NNN",
+      "leading": "N ",
+      "co": "0xfff67ca3"
+    }
+  ],
+
+  "southAmerica": [
+    {
+      "name": "South1",
+      "nickname" : "south_nick1",
+      "coins": "south_coin1",
+      "banknotes": "south_note1",
+      "symbol": "south_symbol1",
+      "code": "south_code1",
+      "leading": "U ",
+      "co": "Colors.green"
+    },
+    {
+      "name": "South2",
+      "nickname": "south_nick2",
+      "coins": "south_coin2",
+      "banknotes": "south_note12",
+      "symbol": "south_symbol2",
+      "code": "SSS",
+      "leading": "V",
+      "co": "Colors.green"
+    },
+    {
+      "name": "South3",
+      "nickname": "soth_nick3",
+      "coins": "soth_coin13",
+      "banknotes": "soth_note3",
+      "symbol": "soth_symbol3",
+      "code": "SXC",
+      "leading": "Y ",
+      "co": "Colors.green"
+    }
+  ],
   "currency": [
     {
       "title1": "Africa",
