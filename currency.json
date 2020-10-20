@@ -15,7 +15,7 @@
       "symbol": "DA (Latin)",
       "code": "DZD",
       "leading": "A ",
-      "co": "0xffF1CE2F"
+      "co": "0xffFBB917"
     },
     {
       "name": "Angola",
@@ -25,7 +25,7 @@
       "symbol": "Kz",
       "code": "AOA",
       "leading": " ",
-      "co": "0xffF1CE2F"
+      "co": "0xffFBB917"
     },
     {
       "name": "Algeria",
@@ -35,7 +35,7 @@
       "symbol": "DA (Latin)",
       "code": "DZD",
       "leading": "A ",
-      "co": "0xffF1CE2F"
+      "co": "0xffFBB917"
     }
   ],
   
@@ -206,7 +206,7 @@
   "currency": [
     {
       "title1": "Africa",
-      "image1": "https://1.bp.blogspot.com/-j5Bm4QtoxBk/X2T-N0SjyEI/AAAAAAAAANw/hKWTONEMCK87p3iy5SOtZkdkOaE3dPTwQCLcBGAsYHQ/s198/africa.png",
+      "image1": "https://1.bp.blogspot.com/-I8X3NPL0R1c/X466coQTrUI/AAAAAAAAAPM/MLxg4MpzLFY4kw2j92Llb_ubmrKxvGMpACLcBGAsYHQ/s198/africa.png",
       "screen1": "AfricaScreen()",
       "url1": "https://gourav512.github.io/GitJson/africa_api.json",
       
