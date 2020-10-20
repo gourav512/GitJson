@@ -48,7 +48,7 @@
       "symbol": "(Latin)",
       "code": "DAD",
       "leading": "B ",
-      "co": "0xFF00FFFF"
+      "co": "Colors.redAccent"
     },
     {
       "name": "Angola",
@@ -58,7 +58,7 @@
       "symbol": "Kz",
       "code": "AOA",
       "leading": "C",
-      "co": "0xFF00FFFF"
+      "co": "Colors.redAccent"
     },
     {
       "name": "Algeria",
@@ -68,7 +68,7 @@
       "symbol": "DA (Latin)",
       "code": "DZD",
       "leading": "D ",
-      "co": "0xFF00FFFF"
+      "co": "Colors.redAccent"
     }
   ],
 
