@@ -48,7 +48,7 @@
       "symbol": "(Latin)",
       "code": "DAD",
       "leading": "B ",
-      "co": "Colors.redAccent"
+      "co": "0XFFFF5252"
     },
     {
       "name": "Angola",
@@ -58,7 +58,7 @@
       "symbol": "Kz",
       "code": "AOA",
       "leading": "C",
-      "co": "Colors.redAccent"
+      "co": "0XFFFF5252"
     },
     {
       "name": "Algeria",
@@ -68,7 +68,7 @@
       "symbol": "DA (Latin)",
       "code": "DZD",
       "leading": "D ",
-      "co": "Colors.redAccent"
+      "co": "0XFFFF5252"
     }
   ],
 
@@ -180,7 +180,7 @@
       "symbol": "south_symbol1",
       "code": "south_code1",
       "leading": "U ",
-      "co": "Colors.green"
+      "co": "0XFF4CAF50"
     },
     {
       "name": "South2",
@@ -190,7 +190,7 @@
       "symbol": "south_symbol2",
       "code": "SSS",
       "leading": "V",
-      "co": "Colors.green"
+      "co": "0XFF4CAF50"
     },
     {
       "name": "South3",
@@ -200,7 +200,7 @@
       "symbol": "soth_symbol3",
       "code": "SXC",
       "leading": "Y ",
-      "co": "Colors.green"
+      "co": "0XFF4CAF50"
     }
   ],
   "currency": [
