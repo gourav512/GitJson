@@ -36,6 +36,104 @@
       "code": "DZD",
       "leading": "A ",
       "co": "0xffff9933"
+    },
+    {
+      "name": "Angola",
+      "nickname": "Angolan Kwanza",
+      "coins": "1 2 5 10 20 50 100 Kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": " ",
+      "co": "0xffff9933"
+    },
+    {
+      "name": "Algeria",
+      "nickname": "Algerian_dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A ",
+      "co": "0xffff9933"
+    },
+    {
+      "name": "Angola",
+      "nickname": "Angolan Kwanza",
+      "coins": "1 2 5 10 20 50 100 Kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": " ",
+      "co": "0xffff9933"
+    },
+    {
+      "name": "Algeria",
+      "nickname": "Algerian_dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A ",
+      "co": "0xffff9933"
+    },
+    {
+      "name": "Angola",
+      "nickname": "Angolan Kwanza",
+      "coins": "1 2 5 10 20 50 100 Kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": " ",
+      "co": "0xffff9933"
+    },
+    {
+      "name": "Algeria",
+      "nickname": "Algerian_dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A ",
+      "co": "0xffff9933"
+    },{
+      "name": "Angola",
+      "nickname": "Angolan Kwanza",
+      "coins": "1 2 5 10 20 50 100 Kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": " ",
+      "co": "0xffff9933"
+    },
+    {
+      "name": "Algeria",
+      "nickname": "Algerian_dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A ",
+      "co": "0xffff9933"
+    },{
+      "name": "Angola",
+      "nickname": "Angolan Kwanza",
+      "coins": "1 2 5 10 20 50 100 Kwanzas",
+      "banknotes": "1, 5, 10, 50, 100, 200, 500, 1,000, 2,000, 5,000 kwanzas",
+      "symbol": "Kz",
+      "code": "AOA",
+      "leading": " ",
+      "co": "0xffff9933"
+    },
+    {
+      "name": "Algeria",
+      "nickname": "Algerian_dinar",
+      "coins": "5, 10, 20, 50, 100, 200 dinars",
+      "banknotes": "200, 500, 1000 dinars",
+      "symbol": "DA (Latin)",
+      "code": "DZD",
+      "leading": "A ",
+      "co": "0xffff9933"
     }
   ],
   
